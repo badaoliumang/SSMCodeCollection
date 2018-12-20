@@ -24,12 +24,23 @@ SSM框架相关的代码收集
 
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85113289
 
+
 4.ssmJarTemplateWithPageHelper
+
 
 &ensp;&ensp;SSM项目中使用Mybatis的PageHelper插件实现分页
 
+
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85115731
 
+
+5.ssmJarTemplateWithDruid
+
+
+&ensp;&ensp;SSM项目中使用Druid连接池
+
+
+&ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85120936
 
 
 
