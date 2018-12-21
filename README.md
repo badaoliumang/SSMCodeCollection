@@ -50,6 +50,16 @@ SSM框架相关的代码收集
 
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85161018
 
+7.ssmJarTemplateWithTransaction
+
+&ensp;&ensp;SSM中整合以及进行注解式和XML配置式事务管理
+
+&ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85165504
+
+
+
+
+
 
 
 
