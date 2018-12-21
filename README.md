@@ -44,3 +44,12 @@ SSM框架相关的代码收集
 
 
 
+6.ssmJarTemplateCRUD
+
+&ensp;&ensp;SSM项目整合实现CRUD
+
+&ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85161018
+
+
+
+
