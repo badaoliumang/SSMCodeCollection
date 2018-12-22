@@ -56,6 +56,12 @@ SSM框架相关的代码收集
 
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85165504
 
+8.SSM+Maven整合时使用Mybatis逆向工程自动生成代码
+
+&ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85202633
+
+
+
 
 
 
