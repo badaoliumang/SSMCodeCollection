@@ -56,6 +56,16 @@ SSM框架相关的代码收集
 
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85165504
 
+8.ssmJarTemplateWithJson
+
+&ensp;&ensp;SSM中通过Json做前后端分离
+
+&ensp;&ensp;博客地址:https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85231976
+
+
+
+
+
 
 
 

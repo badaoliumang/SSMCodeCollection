@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+ 
+    <mapper namespace="com.badao.mapper.UserMapper">
+        <insert id="addUser" parameterType="User" >
+            insert into user ( name,age ) values (#{name},#{age})   
+        </insert>
+         
+        <delete id="deleteUser" parameterType="_int" >
+            delete from user where id= #{id}  
+        </delete>
+         
+        <select id="selectUser" parameterType="_int" resultType="User">
+            select * from   user  where id= #{id}   
+        </select>
+ 
+        <update id="updateUser" parameterType="User" >
+            update user set name=#{name},age=#{age} where id=#{id}   
+        </update>
+        <select id="selectAllUser" resultType="User">
+            select * from   user     
+            <!-- <if test="start!=null and count!=null">
+            	limit #{start},#{count}
+            </if> -->
+        </select>
+        <!-- <select id="total" resultType="int">
+        	select count(*) from user
+        </select>     -->
+    </mapper>
