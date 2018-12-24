@@ -56,7 +56,7 @@ SSM框架相关的代码收集
 
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85165504
 
-<<<<<<< HEAD
+
 8.ssmJarTemplateWithJson
 
 &ensp;&ensp;SSM中通过Json做前后端分离
@@ -64,11 +64,11 @@ SSM框架相关的代码收集
 &ensp;&ensp;博客地址:https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85231976
 
 
-=======
-8.SSM+Maven整合时使用Mybatis逆向工程自动生成代码
+
+9.SSM+Maven整合时使用Mybatis逆向工程自动生成代码
 
 &ensp;&ensp;博客地址：https://blog.csdn.net/BADAO_LIUMANG_QIZHI/article/details/85202633
->>>>>>> 5bd938cb8d1e6c6baa2ef721b1151df224cf8f13
+
 
 
 
